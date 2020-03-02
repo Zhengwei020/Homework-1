@@ -27,4 +27,8 @@
   7                  10    00100
   8                  10    01000
   9                  10    10000
-  
+   貝爾實驗室稱此系統為“二五進制”表示法，因為繼電器的權重為一或五。實際上，它不是這些數字基礎的組合；而是一個七位元混合十進制代碼。所有的貝爾實驗室繼電器計算機都以十進制算法工作。 一個特殊的電路檢查發現每個十進制數字有兩個，只有兩個繼電器通電。另一個電路檢查了每個組中只有一個繼電器的接通狀態，這防止了兩個單獨的錯誤相互抵消，儘管某些異常組合可能無法檢測到。
+
+incorporate 將...包括在內    synonymous 同義的    scheme 方案    diobe 二極管    relay computer 繼電器計算機    modem 數據機    tobacco 罐子bulky 笨重的    interim 暫時的    straightforward 簡單的    modify 修改    prefix 首標    according 相應地    bus 匯流排    prominent 傑出的
+foreshadow 預示    unduly 過度地    perforated 穿孔    analog 模擬    interpolator 插值器    sophisticated 精緻的    intermittently 間歇地
+lodge 卡住    diagnostic 判斷的    hostile 艱苦的    semi-skilled 半熟練的    malfunction 異常
